@@ -1,0 +1,15 @@
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\bin\Release\control_system_project.exe.config
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\bin\Release\control_system_project.exe
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\bin\Release\control_system_project.pdb
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Release\control_system_project.Form1.resources
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Release\control_system_project.Form2.resources
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Release\control_system_project.Form3.resources
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Release\control_system_project.Form4.resources
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Release\control_system_project.Properties.Resources.resources
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Release\control_system_project.csproj.GenerateResource.Cache
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Release\control_system_project.exe
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Release\control_system_project.pdb
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\bin\Release\control_system_project.exe.manifest
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\bin\Release\control_system_project.application
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Release\control_system_project.exe.manifest
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Release\control_system_project.application

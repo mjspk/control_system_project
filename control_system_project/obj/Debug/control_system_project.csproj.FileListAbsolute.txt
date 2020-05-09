@@ -1,0 +1,50 @@
+c:\users\mj.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\bin\Debug\control_system_project.exe.config
+c:\users\mj.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\bin\Debug\control_system_project.exe
+c:\users\mj.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\bin\Debug\control_system_project.pdb
+c:\users\mj.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Form1.resources
+c:\users\mj.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Properties.Resources.resources
+c:\users\mj.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.csproj.GenerateResource.Cache
+c:\users\mj.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.exe
+c:\users\mj.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.pdb
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Form2.resources
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Form3.resources
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Form4.resources
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\bin\Debug\control_system_project.exe.manifest
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\bin\Debug\control_system_project.application
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.exe.manifest
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.application
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.csprojResolveAssemblyReference.cache
+C:\Users\MJ.spk\documents\visual studio 2015\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Form5.resources
+E:\Programming Tools\control_system_project\control_system_project\bin\Debug\control_system_project.exe.config
+E:\Programming Tools\control_system_project\control_system_project\obj\Debug\control_system_project.exe
+E:\Programming Tools\control_system_project\control_system_project\obj\Debug\control_system_project.pdb
+E:\Programming Tools\control_system_project\control_system_project\bin\Debug\control_system_project.exe.manifest
+E:\Programming Tools\control_system_project\control_system_project\bin\Debug\control_system_project.application
+E:\Programming Tools\control_system_project\control_system_project\bin\Debug\control_system_project.exe
+E:\Programming Tools\control_system_project\control_system_project\bin\Debug\control_system_project.pdb
+E:\Programming Tools\control_system_project\control_system_project\obj\Debug\control_system_project.Form1.resources
+E:\Programming Tools\control_system_project\control_system_project\obj\Debug\control_system_project.Form2.resources
+E:\Programming Tools\control_system_project\control_system_project\obj\Debug\control_system_project.Form3.resources
+E:\Programming Tools\control_system_project\control_system_project\obj\Debug\control_system_project.Form4.resources
+E:\Programming Tools\control_system_project\control_system_project\obj\Debug\control_system_project.Form5.resources
+E:\Programming Tools\control_system_project\control_system_project\obj\Debug\control_system_project.Properties.Resources.resources
+E:\Programming Tools\control_system_project\control_system_project\obj\Debug\control_system_project.csproj.GenerateResource.Cache
+E:\Programming Tools\control_system_project\control_system_project\obj\Debug\control_system_project.exe.manifest
+E:\Programming Tools\control_system_project\control_system_project\obj\Debug\control_system_project.application
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\bin\Debug\control_system_project.exe.config
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.exe
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.pdb
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\bin\Debug\control_system_project.exe.manifest
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\bin\Debug\control_system_project.application
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\bin\Debug\control_system_project.exe
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\bin\Debug\control_system_project.pdb
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.csprojResolveAssemblyReference.cache
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Form1.resources
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Form2.resources
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Form3.resources
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Form4.resources
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Form5.resources
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.Properties.Resources.resources
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.csproj.GenerateResource.Cache
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.exe.manifest
+E:\Programming Tools\VS_projects\Projects\control_system_project\control_system_project\obj\Debug\control_system_project.application
